@@ -1,7 +1,7 @@
 module.exports={projdata:[
     {
         name:"Image Sharing Website",
-        desc:"developed a imag sharing website like instagram where users can post their pics and follow other users",
+        desc:"developed a image sharing website like instagram where users can post their pics and follow other users",
         tech:"nodeJS, ReactJS, MongoDB",
         link:"https://github.com/mittal-ankitm/image-sharing-app",
         img:"imgshp.jpg"
