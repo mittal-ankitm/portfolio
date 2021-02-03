@@ -14,9 +14,9 @@ module.exports={projdata:[
         img:"stpdb.jpg"
     },
     {
-        name:"Real Estate Management System",
+        name:"Blockchain based Real Estate Management System",
         desc:"website for transfer of real estate entities by verifications through documents upload and video calling and used blockchain powered distributed data storage",
-        tech:"nodeJS, ReactJS, MongoDB, Socket.io, PeerJS",
+        tech:"Hyperledger, nodeJS, ReactJS, MongoDB, Socket.io, PeerJS",
         link:"https://github.com/mittal-ankitm/real-estate-system",
         img:"prore.jpg"
     },
