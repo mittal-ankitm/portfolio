@@ -21,7 +21,7 @@ function App() {
     <Edu />
     <Card />
     <Projects />
-    {/*<Publication />*/}
+    <Publication />
     <Footer />
       
     </div>
